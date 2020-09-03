@@ -14,9 +14,7 @@ const Header = () => {
         />
       </Head>
       <Wrapper>
-        <Link href="/">
-          <img src="/logo.png" alt="Petz" />
-        </Link>
+       
       </Wrapper>
     </>
   );
